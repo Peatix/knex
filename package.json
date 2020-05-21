@@ -37,7 +37,7 @@
     "getopts": "2.2.5",
     "inherits": "~2.0.4",
     "interpret": "^2.0.0",
-    "liftoff": "3.1.0",
+    "liftoff": "https://github.com/Peatix/js-liftoff/tarball/v3.1.0-1",
     "lodash": "^4.17.15",
     "mkdirp": "^1.0.4",
     "pg-connection-string": "2.2.0",
